@@ -1,6 +1,4 @@
 
-from mimetypes import init
-
 
 class Editor:
   def __init__(self):
